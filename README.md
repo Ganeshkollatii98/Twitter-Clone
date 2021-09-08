@@ -11,8 +11,17 @@ User Stories
 5.  As a user , I want to click on tending hashtags using that hashtags I can see the tweets for that hashtag
 6.  As a user , I want to click on next page of the tweets , as of now current page was completed so using next page I can view the content
 
-#User Flow
-    
+#Project Images
+
+
+![image](https://user-images.githubusercontent.com/52064346/132561172-f9368902-45ef-4981-b520-6257d9a0b695.png)
+
+![image](https://user-images.githubusercontent.com/52064346/132561369-1153e89c-a600-4de4-9fe9-2b79831297cb.png)
+
+#Project Desine wireframe
+
+![Twitter_wireframe](https://user-images.githubusercontent.com/52064346/132561647-b5205fea-0b92-4fe6-94f6-01b59564d129.png)
+
  
  
  
